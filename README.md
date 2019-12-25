@@ -1,9 +1,11 @@
 # SN_final_project
 *final project for the course on social network analysis*
 
+We're building co-authorship graph and project it in time. Because we love reding papers and we want to know what future holds
+
 project developers:
 
 * Anastasia Khorosheva
 * Vladimir Vlasov
 
-[presentation is here click click](https://docs.google.com/presentation/d/1GyU6tUxy67RU1thJ1oGMntdYsWGyqw-F2MO2kNkgrsM/edit?usp=sharing)
+[online resentation is here click click](https://docs.google.com/presentation/d/1GyU6tUxy67RU1thJ1oGMntdYsWGyqw-F2MO2kNkgrsM/edit?usp=sharing)
