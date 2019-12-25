@@ -1,7 +1,7 @@
 # SN_final_project
 *final project for the course on social network analysis*
 
-We're building co-authorship graph and project it in time. Because we love reding papers and we want to know what future holds
+We're building co-authorship graph and project it in time. Because we love reding papers and we want to know what the future holds
 
 project developers:
 
